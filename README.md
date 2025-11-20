@@ -31,7 +31,7 @@ The plugin creates a JSONC configuration file (`ServerIdentityCFG.jsonc`) with t
 jsonc{
   "ServerIdentity": {
     "Command": "ip",
-    "Prefix": "{green}[PoncikMarket]{white}",
+    "Prefix": "{green}[ServerIdentity]{white}",
     "MessageFormat": "{prefix} Server Address: {yellow}{ip}:{port}",
     "ConsolePrint": true
   }
